@@ -255,3 +255,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 **Made with ❤️ by [Darko Kuzmanovic](https://github.com/DarkoKuzmanovic)**
 
 *Transform your productivity with Capsulate - because your Caps Lock key deserves better!*
+
+## Support
+
+[Donate](https://drive.google.com/file/d/14KBkEcr6j4KaxDHcHyejdYlFDt4GjR6O/view?usp=drive_link)
